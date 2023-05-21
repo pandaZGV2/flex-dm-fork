@@ -1,0 +1,12 @@
+numpy
+PyYAML
+faiss-gpu
+jupyter
+matplotlib
+httplib2==0.19.0
+tensorflow_probability
+einops
+tinycss
+selenium
+fsspec
+dacite

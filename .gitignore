@@ -1,0 +1,13 @@
+.env
+.mypy_cache
+*.zip
+crello/*
+rico/*
+data/*
+results/*
+tmp
+pyproject.toml
+
+*.pyc
+*.egg-info
+*gcp*
